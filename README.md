@@ -3,9 +3,8 @@
 ## Table of Contents
 1. [Description](#description)
 2. [Installation](#installation)
-3. [Instructions](#instructions)
-4. [Outcome](#outcome)
-5. [License](#license)
+3. [Files](#files)
+4. [License](#license)
 
 <a name="descripton"></a>
 ### Description
@@ -56,20 +55,17 @@ This project uses Python 3.* and the following libraries:
 * seaborn
 * sklearn
 
-<a name="instructions"></a>
-### Instructions
+<a name="files"></a>
+### Files
 To clone the git repository:
 ```
 https://github.com/justejakstaite/Project-3.git
 ```
+Files attached to this repository include the following:
 
-
-
-
-
-<a name="outcome"></a>
-### Outcome
-
+- Starbucks_Capstone_Notebook.ipynb: Jupyter Notebook for analysis and modelling
+- blog.pdf: This document contains the initial project proposal
+- data: This contains three json files provided by Starbucks
 
 <a name="license"></a>
 ### License
