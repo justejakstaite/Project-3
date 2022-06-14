@@ -63,9 +63,9 @@ https://github.com/justejakstaite/Project-3.git
 ```
 Files attached to this repository include the following:
 
-- Starbucks_Capstone_Notebook.ipynb: Jupyter Notebook for analysis and modelling
-- blog.pdf: This document contains the initial project proposal
-- data: This contains three json files provided by Starbucks
+- [Starbucks_Capstone_Notebook](https://github.com/justejakstaite/Project-3/blob/main/Starbucks_Capstone_Notebook.ipynb).ipynb: Jupyter notebook for analysis and modelling
+- [blog.pdf](https://github.com/justejakstaite/Project-3/blob/main/blog.pdf): This document contains the initial project proposal
+- [data](https://github.com/justejakstaite/Project-3/tree/main/data): This contains three json files provided by Starbucks
 
 <a name="license"></a>
 ### License
